@@ -1,4 +1,4 @@
-# My-App
+# React_App
 Video management frontend web application in ReactJS
 
 # Functionalities
@@ -19,4 +19,4 @@ played i.e the card name, the link and the time it was played
 4. MUI
 
 # Live Site
-- https://glittery-gelato-82517a.netlify.app/
+- https://wizard-react.netlify.app/
