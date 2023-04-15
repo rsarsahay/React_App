@@ -20,3 +20,9 @@ played i.e the card name, the link and the time it was played
 
 # Live Site
 - https://wizard-react.netlify.app/
+
+# Screenshots
+
+![Screenshot (39)](https://user-images.githubusercontent.com/102847337/232227731-949d17a9-f332-4397-9689-81d0aec5ff3a.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/102847337/232227754-6df1f42b-0385-43e8-8e0c-4e11a5390964.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/102847337/232227763-42b03be6-5cb3-41db-a034-094efe1b7877.png)
